@@ -1,5 +1,5 @@
-# Portfolio
+# Proyecto De Vida
 
-About: This is my personal portfolio where you can find my skills, soft-skills and projects. In the same way you can contact me by the contact form. 
+Este es mi proyecto de vida, el cual decidí representarlo por medio de un sitio html.
 
-Technologies: In this project I used Bootstrap to build the design of the website. On the other hand I used JavaScript to build all the dinamic components.
+Por favor evita el plagio -.-
